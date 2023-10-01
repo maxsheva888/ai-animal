@@ -1,0 +1,10 @@
+{
+    "name": "ai-animal",
+    "version": "1.0.0",
+    "keywords": [],
+    "author": "Max Sheva",
+    "license": "ISC",
+    "dependencies": {
+        "http-server": "^14.1.1"
+    }
+}
