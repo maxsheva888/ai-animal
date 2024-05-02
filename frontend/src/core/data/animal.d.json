@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Wolf",
+        "type": "Predator",
+        "view": {
+            "image": "wolf.png",
+            "pointColor": "#D80000"
+        },
+        "speed": 10,
+        "health": 100
+    },
+    {
+        "name": "Reindeer",
+        "type": "Herbivore",
+        "view": {
+            "image": "reindeer.png",
+            "pointColor": "#03B100"
+        },
+        "speed": 15,
+        "health": 100
+    },
+    {
+        "name": "Reindeer",
+        "type": "Herbivore",
+        "view": {
+            "image": "reindeer.png",
+            "pointColor": "#03B100"
+        },
+        "speed": 15,
+        "health": 100
+    },
+    {
+        "name": "Reindeer",
+        "type": "Herbivore",
+        "view": {
+            "image": "reindeer.png",
+            "pointColor": "#03B100"
+        },
+        "speed": 15,
+        "health": 100
+    }
+  ]
